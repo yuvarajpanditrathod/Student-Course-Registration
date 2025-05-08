@@ -1,4 +1,3 @@
-Here’s a professional README template for your student course registration system built using the MERN stack. Feel free to adjust any project-specific details.
 
 ````markdown
 # Student Course Registration System
@@ -41,6 +40,7 @@ Clone the repository to your local machine:
 git clone https://github.com/yuvarajpanditrathod/student-course-registration.git
 cd student-course-registration
 ```
+````
 
 ### Install Dependencies
 
