@@ -1,0 +1,13 @@
+body {
+    background: #f5f7fa;
+    font-family: "Segoe UI", sans-serif;
+}
+
+form {
+    background-color: #fff;
+    border-radius: 12px;
+}
+
+input, label {
+    font-size: 15px;
+}
