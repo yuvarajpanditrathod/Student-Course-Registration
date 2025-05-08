@@ -21,7 +21,7 @@ A modern, full-stack web application that allows students to register for course
 - **Authentication:** JWT (JSON Web Tokens)
 - **Deployment:** Heroku / AWS (or your chosen platform)
 
-## Installation
+### Installation
 
 To run this project locally, follow the steps below:
 
